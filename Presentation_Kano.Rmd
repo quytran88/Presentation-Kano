@@ -1,0 +1,73 @@
+---
+title:  "Tư duy lập trình cho trẻ em"
+subtitle: "Tư duy lập trình cùng KANO"
+institute: "Department of Computer Science and Technology"
+date: "Ngày 21 tháng 07 năm 2021"
+output:
+  ioslides_presentation:
+    logo: logo.png
+    css: style.css
+    widescreen: true
+    smaller: true
+    transition: slower
+---
+
+
+```{r setup, include=FALSE}
+```
+
+# Tư duy lập trình
+
+## Lập trình cho trẻ em
+
+Lập trình trẻ em chính là việc giáo dục lập trình cho các bé từ ngay khi còn bé. Vậy lập trình là gì? Đây là một quy tắc để cho máy tính hiểu được. Và thực hiện một tác vụ nào đó theo ý muốn của người làm ra. Những quy tắc này chính là ngôn ngữ lập trình để người lập trình có thể thực hiện được các mong muốn này. Đây chắc chắn là một kiến thức vô cùng khó đối với bất kì ai để có thể học được nó.
+
+Học lập trình theo phương pháp truyền thống hết sức khô khan và chắc chắn không thể áp dụng dạy được cho trẻ em. Cho nên các người đào tạo lập trình cho trẻ em đã tạo ra những nội dung lôi cuốn. Đầy thú vị, giải trí để cho các kiến thức khó hiểu này các bé dễ dàng tiếp thu nhất. Đây chính là điểm nhấn của các phương pháp dạy lập trình trẻ em hiệu quả nhất.
+
+# Tại sao nên cho trẻ học lập trình sớm
+
+## Programming?
+
+Chắc hẳn rất nhiều các bậc phụ huynh lại thắc mắc tại sao nên cho trẻ em học lập trình từ sớm. Nhiều người đang còn hoài nghi liệu cho trẻ em học quá nhiều cả trên trường lẫn đi học thêm có sao không? 
+
+Có thể đưa ra một số các câu trả lời như sau:
+
+  **1. Code giúp cho trẻ em tăng sự sáng tạo:** Với các trò chơi mang tính chất kiến thức lập trình. Các bé hoàn toàn có thể thỏa thích sáng tao và làm những điều mới lạ. Chắc chắn sẽ giúp cho các bé có thể tăng được tính sáng tạo, khả năng hòa đồng, làm việc nhóm. Đây chính là một yếu tố cực kì quan trọng và là cơ bản nhất cho sự phát triển của bé sau này.
+  
+  **2. Tăng khả năng tư duy logic:** Đây chính là điều mà các ngành kĩ thuật và công nghệ rất cần. Một bộ óc logic sẽ giúp cho các bé có các quyết định chính xác hơn. Hơn thế nữa các giải quyết vấn đề luôn là nhanh nhất, ngắn nhất. Đó chính là nhờ vào khả năng tư duy logic và sắp xếp các phương áp một cách nhạy bén.
+  
+  **3. Lợi thế cạnh tranh khi đi du học nước ngoài:** Khi bé được học lập trình ngay từ khi còn bé thì khả năng các bé sau này lớn lên sẽ hơn rất nhiều các bạn cùng chăng lứa. Chính việc có kiến thức nền tảng và cơ bản từ ngay khi còn bé.
+  
+\newpage
+
+# Một số phần mềm lập trình cho trẻ thông dụng
+
+## Scratch v3.0
+
+Tên đầy đủ của phần mềm học lập trình cho các bé này đó là MIT Media Labs Scratch. Phần mềm này được thiết kế dưới dạng trò chơi hấp dẫn dành cho các bé. Giao diện của phần mềm học tập lập trình này cực kì hấp dẫn
+<center>
+![Scratch v3.0](C:/Users\Admin\OneDrive\Desktop\Seminar 12 July\Seminar Kano\Presentation-Kano\scratch.png)
+
+</center>
+## Code.org
+
+Đây là một phần mềm học lập trình cho trẻ nhỏ cũng được tích hợp dưới dạng trò chơi. Đem tới hiệu quả lập trình dành cho các bé vô cùng hiệu quả. Kiến thức được tích hợp trên phần mềm một cách vô cùng cơ bản, chỉ cần trải qua vài trò chơi nhỏ các bé sẽ nắm được một số logic cơ bản.
+<center>
+![Scratch v3.0](C:/Users\Admin\OneDrive\Desktop\Seminar 12 July\Seminar Kano\Presentation-Kano\codeorg.jpg)
+
+</center>
+
+# Lập trình lứa tuổi mầm non
+
+## Câu truyện về tỷ phú ông chủ Facebook
+
+Tỷ phú Mark Zuckerberg làm dấy lên tranh luận trái chiều khi đăng bức ảnh con gái đầu lòng Maxima (5 tuổi) bên chiếc máy tính với dòng chữ: "Kano khá tuyệt cho việc dạy trẻ em học code". Bài viết cụ thể tại [đây](https://vnexpress.net/mark-zuckerberg-day-con-gai-hoc-lap-trinh-4289319.html)
+
+\newpage
+
+# Chương trình đầu tiên bằng Kano Kit
+
+## Video giới thiệu
+
+[Link youtube](https://www.youtube.com/watch?v=sX50c7NAe-Y)
+
